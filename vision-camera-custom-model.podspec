@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
 
   s.dependency "React-Core"
   s.dependency "GoogleMLKit/ImageLabeling"
+  s.dependency "GoogleMLKit/ImageLabelingCustom"
 end
